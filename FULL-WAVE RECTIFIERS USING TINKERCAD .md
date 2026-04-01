@@ -2,8 +2,11 @@
 <img width="386" height="342" alt="image" src="https://github.com/user-attachments/assets/f5dfaefa-ffbe-4b2b-a06c-f26e75f87096" />
 <img width="727" height="500" alt="image" src="https://github.com/user-attachments/assets/87e0de1d-b37c-4f12-ab6e-55a24b43fb41" />
 <img width="780" height="486" alt="image" src="https://github.com/user-attachments/assets/dd542be5-c72c-4113-9e2a-b587b8f572b5" />
+##tabulation##
+<img width="867" height="1077" alt="image" src="https://github.com/user-attachments/assets/63265736-3556-4322-804c-cc22b97e122f" />
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+<img width="856" height="404" alt="image" src="https://github.com/user-attachments/assets/38394d77-2fd9-45ec-9b5a-b12c4e4ef32a" />
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
