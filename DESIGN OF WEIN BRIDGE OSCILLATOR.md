@@ -14,10 +14,13 @@
 
 
 ## Tabulation
+<img width="889" height="1590" alt="image" src="https://github.com/user-attachments/assets/27191233-88be-4277-b784-9a2b85acf308" />
 
 ## Graph
+<img width="987" height="681" alt="image" src="https://github.com/user-attachments/assets/ae13bbdc-f5df-4ed2-ae1c-ba1f16a67b81" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+<img width="961" height="473" alt="image" src="https://github.com/user-attachments/assets/7907145b-99b8-49cc-bd87-24c5729da1e0" />
 
 Practical frequency of Oscillation =
 
